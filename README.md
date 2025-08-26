@@ -1,3 +1,2 @@
 # Virtual_Exhibit
-First-person 3D simulation
-The Scale of Human Nature Through Romanticism - Virtual Art Exhibit for ARTH5 Project
+First-person 3D simulation virtual art exhibit - The Scale of Human Nature Through Romanticism
